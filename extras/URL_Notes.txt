@@ -1,0 +1,17 @@
+TidyTuesday: 
+https://github.com/rfordatascience/tidytuesday
+
+Explanation of Dataset:
+https://touringplans.com/blog/disney-world-wait-times-available-for-data-science-and-machine-learning/
+
+Data Obtained From:
+https://touringplans.com/walt-disney-world/crowd-calendar#DataSets
+
+Date Obtained: 
+2/21/2022 8:47 PM
+
+Info about DINOSAUR:
+Location (section of Animal Kingdom Park) = DinoLand U.S.A.
+Opening Date = 04/22/1998
+Ride Duration (in minutes) = 3.5 minutes 
+Average Wait Time for every 100 people in standby queue = 3 (unit not specified)
